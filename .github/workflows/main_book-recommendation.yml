@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Book-Recommendation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C55FEF48EAF74CEF9FB705711B1D9BA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E01EA2A2E1749F69E273F9ADB700EBA }}
