@@ -11,7 +11,7 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
 # Railway Deployment Link :
-[https://studentsmathscoreprediction.azurewebsites.net/](https://web-production-7717.up.railway.app/)https://web-production-7717.up.railway.app/
+(https://web-production-7717.up.railway.app/)https://web-production-7717.up.railway.app/
 # Screenshot of UI:
 ![HomepageUI](./screenshots/Capture.PNG)
 # Approach for the project :
